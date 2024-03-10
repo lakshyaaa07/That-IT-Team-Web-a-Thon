@@ -11,7 +11,7 @@ function App() {
       <Customizer />
 
     </main>
-  )
+  ) 
 }
 
 export default App
